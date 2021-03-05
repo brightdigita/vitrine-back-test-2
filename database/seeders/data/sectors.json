@@ -1,0 +1,3339 @@
+{
+    "name": "List of sectors and subsectors",
+    "sectors": [
+        {
+            "PÔLES D’ACTIVITES": "PÔLE  ADMINISTRATION",
+            "SECTEURS": "ADMINISTRATIONS",
+            "SOUS-SECTEURS": "Administrations, Organismes d’état",
+            "BOUQUET": "PRESTIGE PLUS",
+            "SIGLE": "PRE+",
+            "COÛT MENSUEL": "10000",
+            "COÛT ANNUEL": "120000"
+        },
+        {
+            "SOUS-SECTEURS": "Ministères",
+            "BOUQUET": "PRESTIGE PLUS",
+            "SIGLE": "PRE+",
+            "COÛT MENSUEL": "10000",
+            "COÛT ANNUEL": "120000"
+        },
+        {
+            "SOUS-SECTEURS": "Communes",
+            "BOUQUET": "PRESTIGE",
+            "SIGLE": "PRE",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SECTEURS": "SECURITE  PUBLIQUE",
+            "SOUS-SECTEURS": "Commissariats de Police",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Brigades de Gendarmerie",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "PRE+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SECTEURS": "AMBASSADES",
+            "SOUS-SECTEURS": "Ambassades",
+            "BOUQUET": "PRESTIGE PLUS",
+            "SIGLE": "PRE+",
+            "COÛT MENSUEL": "10000",
+            "COÛT ANNUEL": "120000"
+        },
+        {
+            "SOUS-SECTEURS": "Représentations diplomatiques ",
+            "BOUQUET": "PRESTIGE PLUS",
+            "SIGLE": "PRE+",
+            "COÛT MENSUEL": "10000",
+            "COÛT ANNUEL": "120000"
+        },
+        {
+            "SECTEURS": "ONG, ASSOCIATIONS",
+            "SOUS-SECTEURS": "Organisations internationales",
+            "BOUQUET": "PRESTIGE PLUS",
+            "SIGLE": "PRE+",
+            "COÛT MENSUEL": "10000",
+            "COÛT ANNUEL": "120000"
+        },
+        {
+            "SOUS-SECTEURS": "ONG",
+            "BOUQUET": "PRESTIGE",
+            "SIGLE": "PRE",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Associations",
+            "BOUQUET": "PRESTIGE",
+            "SIGLE": "PRE",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "PÔLES D’ACTIVITES": "PÔLE  FINANCES",
+            "SECTEURS": "BANQUES, ORGANISMES FINANCIERS",
+            "SOUS-SECTEURS": "Banque et Organismes financiers",
+            "BOUQUET": "BUSINESS PLUS",
+            "SIGLE": "BU+",
+            "COÛT MENSUEL": "10000",
+            "COÛT ANNUEL": "120000"
+        },
+        {
+            "SOUS-SECTEURS": "Banques, Equipements, Sécurité bancaire",
+            "BOUQUET": "BUSINESS PLUS",
+            "SIGLE": "BU+",
+            "COÛT MENSUEL": "10000",
+            "COÛT ANNUEL": "120000"
+        },
+        {
+            "SOUS-SECTEURS": "Banques, services mobiles",
+            "BOUQUET": "BUSINESS PLUS",
+            "SIGLE": "BU+",
+            "COÛT MENSUEL": "10000",
+            "COÛT ANNUEL": "120000"
+        },
+        {
+            "SOUS-SECTEURS": "Bureaux de change et Transferts d’argents",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Bureaux de contrôle",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Cabinets comptables",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": " Expertises comptables, audits et conseils",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Centres d’information",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Crédits et finances",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Enquêtes, Recherches et Investigations",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Holdings",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Investissements",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Transports de fonds",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SECTEURS": "ASSURANCES",
+            "SOUS-SECTEURS": "Assurances",
+            "BOUQUET": "BUSINESS PLUS",
+            "SIGLE": "BU+",
+            "COÛT MENSUEL": "10000",
+            "COÛT ANNUEL": "120000"
+        },
+        {
+            "SOUS-SECTEURS": "Assurances vies",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Assurances ; Médicales",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Assureurs, Courtiers et Conseils",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "PÔLES D’ACTIVITES": "PÔLE  IMMOBILIER  ET  TRAVAUX  PUBLIC",
+            "SECTEURS": "BATIMENTS ET CONSTRUCTION",
+            "SOUS-SECTEURS": "Adduction d’eau et VRD",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Agencement et Décoration",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Aluminium,  Industries",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Aménagement des Terrains urbains",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Architecture et Urbanisme, Cabinets",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Ascenseurs",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Assainissement et Canalisations",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Bâches et Stores, Fabrication",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Bâtiments et Travaux publics",
+            "BOUQUET": "BUSINESS ",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Bâtiments, Expertises",
+            "BOUQUET": "BUSINESS ",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Bâtiments, Nettoyage",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "  Bâtiments préfabriqués ",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": " Bâtiments, Ravalement",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Bâtiments, Réhabilitation",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": " Bâtiments, Second œuvre de Bâtiment",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Bitume, Fabrication",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Bois et Négoce ",
+            "BOUQUET": "BUSINESS ",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Bois, Industries",
+            "BOUQUET": "BUSINESS ",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Bois, Scieries",
+            "BOUQUET": "BUSINESS ",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Bricolage",
+            "BOUQUET": "CLASSIQUE ",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Briqueteries",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": " Bureaux d’Etudes et d’Ingénierie ",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Câbles, Industries",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Caoutchouc, Industries",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Carrelages",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Carrière, Exploitations et Exploration",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Chaudronnerie",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Cimenteries",
+            "BOUQUET": "BUSINESS ",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Citernes, Métallique et Plastique",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Climatisation",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Climatisation, Dépannage et Maintenance",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Constructions industrielles",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Constructions métalliques",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Développement rural et urbain",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Ebénistes",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Echafaudages",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": " Espaces verts et Jardin",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Etanchéité",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Faux plafonds et Staff",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Fer et Acier, industries",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Forages",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Forages maintenance",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Forages, matériels et Equipements ",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Forestiers, matériels et équipements",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Génie Civil",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Géologues",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Groupes électrogènes",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Hydraulique",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Hydraulique, Constructions",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Hydraulique, Matériels et Equipements ",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": " Laboratoires d’Analyses du Bâtiment",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": " Location d’engins de chantier",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Matériaux de construction",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "  Menuiseries aluminium",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Menuiseries Bois ",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Menuiseries industrielles",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Menuiserie métalliques ",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Mines, centres de formation",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": " Mines, Matériels et équipements",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Mines, Recherche",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Miroiteries et vitreries",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Ouvrages d’Art",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Peintres en Bâtiments et Travaux publics ",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Peinture ",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Piscines",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Plomberie et Sanitaires",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Quincailleries",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Routes",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Routes, matériaux",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Routes, Signalisation",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": " Serrureries",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Toitures, Matériaux",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Tôles",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Topographie",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Travaux publics et  Terrassement  ",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Tuyauteries, PVC Industries",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SECTEURS": "IMMOBILIER",
+            "SOUS-SECTEURS": "Garde meubles",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Immobilier, Agences",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Immobilier, Expertises",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Immobilier, Gestion",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": " Immobilier, Location",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Immobilier, Promoteurs",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "PÔLES D’ACTIVITES": "PÔLE  ECONOMIE  INDUSTRIELLE",
+            "SECTEURS": "AGRICULTURE",
+            "SOUS-SECTEURS": "Agricole, Industries",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Agricole, Matériels et Produits",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Agricole, Produits Chimiques",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Agriculture",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Agriculture, Equipements et Matériels ",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Agriculture, Produits",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Agro-alimentaire",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Agro-industrie",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Elevage",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": " Elevage, Centres de Formation",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Elevage, Consultants",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SECTEURS": "ALIMENTATIONS",
+            "SOUS-SECTEURS": "Abattoirs et Viande en gros",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Alimentaire, Distributeurs et Grossistes",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Alimentaire, Industries",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": " Alimentaire, Produits",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Alimentation Animale",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Alimentation générale",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Boissons",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Boulangeries et Pâtisseries, Matériels ",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Brasseries",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Cacao, Production et Exportation",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Distilleries",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Environnement",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Lait, Yaourt et Fromage",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Laiterie industrielle",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Minoteries",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Pèche, Commercialisation et Exportation",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Pèche, Congélation",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Sucre, Fabrication et Raffinage ",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Supermarchés",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Thé, Production et Commercialisation",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Traiteurs",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SECTEURS": "COMMERCES, IMPORT ET EXPORT",
+            "SOUS-SECTEURS": "Centrales d’achats",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Chambre de commerce",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Commerce extérieur, Promotion",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Commerce général",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": " E-Commerce",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Groupements d’Entreprises",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Import & Export",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Supermarchés",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Commerces",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Petits Commerces",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Promotion commerciale et Etudes",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Recouvrements commerciaux",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Représentation commerciale",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SECTEURS": "MOBILIERS, AMENAGEMENT",
+            "SOUS-SECTEURS": "Ameublement et Mobilier",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Ameublement et Mobilier, Industries",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Fournitures de bureaux",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Fournitures de Bureaux, industries",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Mobilier de Bureaux",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Mobilier de Jardin",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Mobilier, Industries",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SECTEURS": "INDUSTRIES",
+            "SOUS-SECTEURS": "Allumettes et Bougies",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Armes et munitions",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Assistance technique",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Cartonneries",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Chaussures, Manufactures",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Coton",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Dépannage et Maintenance industrielle",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Diamant et Or",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Emballage et Conditionnement, Alimentaire",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Emballage et Conditionnement matériels et équipements ",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Equipement de bureaux",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Equipements industriels",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Fournitures industrielles ",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Froid industriel",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Location de matériels",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Machines-outils, Manufactures",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Manutention industrielle",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Matelas ",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Matelas, Equipements et Matériels",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Mesures et Pesage, Matériels",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Nettoyage industriel",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Nettoyage, Matériels et Equipements",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Papier, Industries",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Pièces détachées industrielles",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Plastique, Industries",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Plastique, Produits",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Savonneries",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Soudage, Matériels et Produits",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Tabac, Manufactures et Importateurs",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Travail Temporaire, Intérim ",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Tuyauteries",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Verre, Industries",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SECTEURS": "TEXTILES ET PRET A PORTER",
+            "SOUS-SECTEURS": "Equipements militaire, vêtements et matériels ",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Friperies",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": " Prêt à Porter, Gros et Détail",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Textile",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Textile, Filature, Tissage, Impression et Teinture ",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Textile, Fournitures",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Textile matériels et Equipements ",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Vêtements, Manufactures ",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SECTEURS": "AUTOMOBILES",
+            "SOUS-SECTEURS": "Auto-écoles",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": " Automobiles et Concessionnaires",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Automobiles, Expertises",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Automobiles, Pièces Détachées et accessoires",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000"
+        },
+        {
+            "SOUS-SECTEURS": "Automobiles, Voitures d’occasions ",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000"
+        },
+        {
+            "SOUS-SECTEURS": "Constructions mécaniques",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Contrôles Techniques, Automobiles",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Cycles et Motos",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Engins de Chantier et Matériels",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Garages",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Mécanique générale",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": " Mécanique, industries",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Moteurs et Pompes",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Pneumatiques",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Tracking",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": " Véhicules industriels",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SECTEURS": "TRANSPORTS",
+            "SOUS-SECTEURS": "Aéronautique",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Aéronautique, Maintenance ",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Aéroports",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Aéroports, Equipements",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Aéroports, Maintenance",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": " Aéroports, Sécurité Aérienne ",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Aéroports, Services ",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Agences en Douane",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Agences Maritimes",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Agences de Transport",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Agences automobiles",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Avions, Pièces Détachées ",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Chantiers navals",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Chemin de fer",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Compagnies Aériennes",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Containers, Fabrication et Location Vente",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Déménagements",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Expertises Maritimes et Terrestres ",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Manutention et Entreposage",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Manutention Equipements",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Manutention Portuaire ",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Ports",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Ports, Matériels et Equipements",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Transit et Consignation",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Transport Aériens",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Transports en commun ",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Transports Ferroviaires",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Transports Maritimes",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Transports Routiers",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Transports Urbains",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Travaux maritimes",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SECTEURS": "COMMUNICATION",
+            "SOUS-SECTEURS": "Agences de Mannequins",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Agences de Presse et d’Information",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Agences de Publicité et de communication",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Audiovisuel, Matériels et Production",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Evénementiel ",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Journaux et Presse",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Librairies, Papeteries, Maisons de la presse",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": " Marketing",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": " Marketing, conseils ",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Objets publicitaires",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Organisations de conférences",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Télévision",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Radio Communication",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Relations publiques et organisations",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Ressources humaines",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Sérigraphie",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Journalisme",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Web ",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Réseaux sociaux",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SECTEURS": "MARCHES ",
+            "SOUS-SECTEURS": "Marché Mokolo de Yaoundé",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Marché Central de Yaoundé ",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Marché Central de Douala",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Marché Mbopi de Douala",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "PÔLES D’ACTIVITES": "PÔLE ECONOMIE FAMILIALE, SOCIALE ET CULTURELLE ",
+            "SECTEURS": "AVOCATS, NOTAIRES, JUSTICE",
+            "SOUS-SECTEURS": " Avocats",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Avocats d’Affaires internationales",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Cabinets juridiques et fiscaux",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Expertises judiciaire",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Huissiers de justice",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Notaires",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SECTEURS": "EDUCATION, FORMATION",
+            "SOUS-SECTEURS": "Centres de documentation",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Centres de formation à distance",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Centres de formation des cadres",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Centres de Formation professionnelle",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Centres de recherche",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Université et Grandes Ecoles ",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Collèges et Lycées ",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Ecoles primaires et maternelles ",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Crèches ",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SECTEURS": "EMPLOI",
+            "SOUS-SECTEURS": "Agences",
+            "BOUQUET": "CLASSIQUE ",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Autres Annonceurs",
+            "BOUQUET": "CLASSIQUE ",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SECTEURS": "SANTE, MEDECINE",
+            "SOUS-SECTEURS": "Cabinets médicaux et Médecins",
+            "BOUQUET": "CLASSIQUE ",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Chimie, Industries ",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Chimie, Produits",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Chirurgie Esthétique",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Chirurgie plastique des mains",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Cliniques et Hôpitaux",
+            "BOUQUET": "CLASSIQUE ",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Cosmétiques, industries ",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Cosmétiques, Produits",
+            "BOUQUET": "CLASSIQUE ",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Bien être",
+            "BOUQUET": "CLASSIQUE ",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Sale de Sport ",
+            "BOUQUET": "CLASSIQUE ",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Dentistes et Cabinets dentaires",
+            "BOUQUET": "CLASSIQUE ",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Laboratoires d’analyses médicales",
+            "BOUQUET": "CLASSIQUE ",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Laboratoires, Matériels  et Equipement",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": " Laboratoires, Produits ",
+            "BOUQUET": "CLASSIQUE ",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Médical, Assistance",
+            "BOUQUET": "CLASSIQUE ",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Médical, Gaz médical",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Médical, Industries",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Médical, Matériels et Equipements",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Médical, Produits",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Opticiens",
+            "BOUQUET": "CLASSIQUE ",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Opticiens, Matériels et Equipements",
+            "BOUQUET": "CLASSIQUE ",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Parapharmacie, Industries ",
+            "BOUQUET": "CLASSIQUE ",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Parfum, Industries",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Pharmaceutiques, Distributeurs",
+            "BOUQUET": "CLASSIQUE ",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Pharmaceutiques, Industries",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": " Pharmaceutiques, Laboratoires ",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Pharmaceutiques, Matériels et Equipements ",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Pharmaceutiques, Produits",
+            "BOUQUET": "CLASSIQUE ",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Pharmacies",
+            "BOUQUET": "CLASSIQUE ",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Phytosanitaires, Traitements",
+            "BOUQUET": "CLASSIQUE ",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Urgences Médicales",
+            "BOUQUET": "CLASSIQUE ",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Vétérinaires, cliniques",
+            "BOUQUET": "CLASSIQUE ",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Vétérinaires, Docteurs",
+            "BOUQUET": "CLASSIQUE ",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Vétérinaires, Produits et Pharmacie",
+            "BOUQUET": "CLASSIQUE ",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SECTEURS": "SECURITE PRIVEE",
+            "SOUS-SECTEURS": "Alarmes et Surveillance, Matériels, Equipements",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Badges, Fabrication",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Contrôles technique ",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Détectives ",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Escorte véhicules",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Gardiennage et Sécurité ",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Gardiennage et Sécurité, Equipements ",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Incendie et Protection, Matériels",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Sécurité, Audits et Consultants",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Télésurveillance et Vidéosurveillance ",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SECTEURS": "TOURISME ET LOISIRS",
+            "SOUS-SECTEURS": "Agences de Tourisme, Centres d’Informations",
+            "BOUQUET": "CLASSQIUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Agences de Voyages, Tours Opérateurs",
+            "BOUQUET": "CLASSQIUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Artisanat, Antiquaires et Galeries d’Art",
+            "BOUQUET": "CLASSQIUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Bijouteries et Joailleries ",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Blanchisseries et Pressings",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Boutiques",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Centres commerciaux",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Cinémas et Vidéothèques ",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Equipements hôtels et Restaurants",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Instituts de Beauté",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Location d’Avions",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Location de Bateaux",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Location de Voitures",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Loisirs",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Loterie, Jeux de Hazard",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Massages",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Night clubs et Discothèques ",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Cabarets ",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Snacks Bars ",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Photos et Films",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Transports logistique",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Transports touristiques Voyage",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Agences de voyage  ",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Hôtels",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Appartements meublés",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Maisons d’hôtes  ",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SECTEURS": "RESTAURATION",
+            "SOUS-SECTEURS": "Restaurants et Bars ",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Restauration Rapide",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Salon de Thé et Glaciers",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Services aux Particuliers et aux Sociétés",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SECTEURS": "ART ET CULTURE",
+            "SOUS-SECTEURS": "Sculpture",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Arts visuels (peinture-dessin, etc)",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Musique",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Littérature",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Arts de la Scène (Théatre, danse, mime, cirque, humour)",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Cinéma",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Artisanat, Antiquaires et Galeries d’Art",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Bijouteries et Joailleries ",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SECTEURS": "SPORTS",
+            "SOUS-SECTEURS": "Atlétisme",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Basket-ball",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Boxe",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Cyclisme",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Danse",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Football",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Golf",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Gymnastique",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Haltérophilie",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Handball",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Judo",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Lutte",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Natation",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Sport équestre",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Taekwondo",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Tennis",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Tennis de Table",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Volley-ball",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SECTEURS": "ASSOCIATIONS RELIGIEUSES",
+            "SOUS-SECTEURS": "Associations chretiènnes ",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Autres Associations réligieuses",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SECTEURS": "SERVICES A LA PERSONNE",
+            "SOUS-SECTEURS": "Garde d’enfants à domicile ; ",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Accompagnement d’enfants ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Soutient scolaire, Cours à domicile ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Assistance administrative ",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Ménage ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Repassage ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Collecte et Livraison de Linge repassés ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Jardinage ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Bricolage ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Surveillance et maintenance de résidence ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Préparation de repas et commissions ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Livraison de repas ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Livraison de courses ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Petit travaux de jardinage ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Travaux de bricolage ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Soins corporels et esthétiques ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Taxi ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Voiture de Location avec ou sans chauffeur ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Chauffeurs, Conduite du véhicule personnel ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Electriciens ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Menuisiers ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Maçons ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Peintres ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Charpentiers ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Plombier ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Cuisiniers ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Garagiste ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Service traiteur ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Décorateur ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Photographe ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Garde malade ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Soins esthétiques ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Soins Infirmiers ;",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Coiffeurs",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Coursiers",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Fripiers",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SECTEURS": "PARTICULIERS",
+            "SOUS-SECTEURS": "Professionnels",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Particuliers",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Utilisateurs",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Autres Particuliers",
+            "BOUQUET": "VARIETE",
+            "SIGLE": "VA",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "PÔLES D’ACTIVITES": "PÔLE  ECONOMIE  NUMERIQUE",
+            "SECTEURS": "INFORMATIQUE, INTERNET, TIC",
+            "SOUS-SECTEURS": "Antennes paraboliques, Equipements",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Archivage numérique",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Bureautique",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Business center",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Centres d’Appels",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Courriers Express",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Cybercafés",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Domiciliation de Sociétés",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": " Editeurs",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Etudes de Marchés ",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Imprimeries",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": "Imprimeries, Matériels et Equipements ",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Informatique",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": " Informatique, Consommables",
+            "BOUQUET": "PME",
+            "SIGLE": "PME",
+            "COÛT MENSUEL": "1000",
+            "COÛT ANNUEL": "12000"
+        },
+        {
+            "SOUS-SECTEURS": " Informatique, constructeurs",
+            "BOUQUET": "BUSINESS",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Informatique, consultants",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Informatique, Environnement",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Informatique, Expertises",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Informatique, Gestion de Maintenance système ",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Informatique, Ingénierie",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Informatique, maintenance",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Informatique Réseaux",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Informatique, Sécurité",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Internet",
+            "BOUQUET": "CLASSIQUE PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "3000",
+            "COÛT ANNUEL": "36000"
+        },
+        {
+            "SOUS-SECTEURS": "Internet, web design",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Paratonnerre",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "TIC, consultants",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SOUS-SECTEURS": "Traducteurs et Interprètes ",
+            "BOUQUET": "CLASSIQUE",
+            "SIGLE": "CL",
+            "COÛT MENSUEL": "2000",
+            "COÛT ANNUEL": "24000"
+        },
+        {
+            "SECTEURS": "TELECOMMUNICATION",
+            "SOUS-SECTEURS": "Télécommunication, Transmission de données ",
+            "BOUQUET": "BUSINESS ",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Télécommunications et Téléphonie",
+            "BOUQUET": "BUSINESS PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "10000",
+            "COÛT ANNUEL": "120000"
+        },
+        {
+            "SOUS-SECTEURS": "Télécommunications, Fibre Optique",
+            "BOUQUET": "BUSINESS ",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Télécommunications, Installation et Maintenance",
+            "BOUQUET": "BUSINESS ",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Télécommunications, Matériels et Equipements",
+            "BOUQUET": "BUSINESS ",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Télécommunications mobiles ",
+            "BOUQUET": "BUSINESS PLUS",
+            "SIGLE": "CL+",
+            "COÛT MENSUEL": "10000",
+            "COÛT ANNUEL": "120000"
+        },
+        {
+            "SOUS-SECTEURS": "Télécommunications, Réseaux d’Entreprises ",
+            "BOUQUET": "BUSINESS ",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        },
+        {
+            "SOUS-SECTEURS": "Télécommunications, Satellite",
+            "BOUQUET": "BUSINESS ",
+            "SIGLE": "BU",
+            "COÛT MENSUEL": "5000",
+            "COÛT ANNUEL": "60000"
+        }
+    ]
+}
